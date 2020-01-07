@@ -5,5 +5,7 @@ public class DemoTest {
 		System.out.println("Demo Test");
 		System.out.println("Demo Added");
 		System.out.println("Test demo");
+		
+		System.out.println("Stashing");
 	}
 }
