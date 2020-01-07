@@ -7,5 +7,6 @@ public class DemoTest {
 		System.out.println("Test demo");
 		
 		System.out.println("Stashing");
+		System.out.println("Dev  branch push");
 	}
 }
